@@ -2,7 +2,6 @@
 
                     E-shop supermarket DB
                    -----------------------
-
  "EShopSupermarketProject.sql": Contains the queries
        "backupsupermarket.sql": Backup file of the Database
 "eshopsupermarket_diagram.mwb": Database's diagram file
